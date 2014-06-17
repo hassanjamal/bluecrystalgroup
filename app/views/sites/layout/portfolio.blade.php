@@ -8,8 +8,6 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img1.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
                                 <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img1.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
                             </div>           
                         </div>                       
@@ -18,10 +16,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img2.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img2.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img2.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
                             </div>               
                         </div>                    
                     </div>
@@ -29,10 +24,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img3.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img3.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img3.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
                             </div>              
                         </div>      
                     </div>
@@ -40,10 +32,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img4.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img4.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img4.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
                             </div>                  
                         </div>                      
                     </div>
@@ -51,10 +40,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img5.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img5.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img5.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
                             </div>     
                         </div>                                   
                     </div>
@@ -62,10 +48,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img6.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img6.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img6.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
                             </div>     
                         </div>                                   
                     </div>
@@ -73,10 +56,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img1.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img1.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img1.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
                             </div>    
                         </div>                                    
                     </div>
@@ -84,10 +64,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img2.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img2.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img2.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
                             </div>   
                         </div>                                     
                     </div>
@@ -95,10 +72,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img4.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img4.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img4.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>                            
                             </div>    
                         </div>                                    
                     </div>
@@ -106,10 +80,7 @@
                         <div class="mix-inner">
                             <img alt="" src="../../assets/frontend/pages/img/works/img3.jpg" class="img-responsive">
                             <div class="mix-details">
-                                <h4>Cascusamus et iusto odio</h4>
-                                <p></p>
-                                <a class="mix-link"><i class="fa fa-link"></i></a>
-                                <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img3.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
+                               <a data-rel="fancybox-button" title="Project Name" href="../../assets/frontend/pages/img/works/img3.jpg" class="mix-preview fancybox-button"><i class="fa fa-search"></i></a>
                             </div> 
                         </div>                                       
                     </div>
