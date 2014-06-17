@@ -63,4 +63,6 @@
 
     </div>
 </div>
+@include('sites.layout.pre_footer')
+@include('sites.layout.footer')
 @stop
