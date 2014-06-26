@@ -1,6 +1,6 @@
 <div class="header">
     <div class="container">
-        <a class="site-logo" href="{{ route('home') }}"><img src="" alt="Blue Crystal Group"></a>
+        <a class="site-logo" href="{{ route('home') }}"><img src="/assets/logo.png" alt="Blue Crystal Group"></a>
 
         <!-- BEGIN NAVIGATION -->
         <div class="header-navigation pull-right font-transform-inherit">

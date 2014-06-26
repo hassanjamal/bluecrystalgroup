@@ -7,8 +7,6 @@
                 <p class="lead"> We create millionaires.Would you like to be next?</p>
                 <p>We welcome you at Blue Crystal Group . It would take a novel to go into everything about Blue 
                 Crystal Group. We are on our way to give every individual a sense of self respect and financial strength ..</p>
-
-                
             </div>
             <!-- END BOTTOM ABOUT BLOCK -->
 

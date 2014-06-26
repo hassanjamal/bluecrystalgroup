@@ -24,11 +24,11 @@
                     </div>
                     <div class="caption lfb"
                         data-x="640" 
-                        data-y="0" 
+                        data-y="100" 
                         data-speed="700" 
                         data-start="1000" 
                         data-easing="easeOutExpo">
-                        <img src="../../assets/frontend/pages/img/revolutionslider/lady.png" alt="Image 1">
+                        <img src="../../assets/frontend/pages/img/divisions/Blue-Crystal-1.jpg" alt="Image 1">
                     </div>
                 </li>    
 
@@ -63,11 +63,11 @@
                     </div>
                     <div class="caption lfb"
                         data-x="640" 
-                        data-y="55" 
+                        data-y="100"
                         data-speed="700" 
                         data-start="1000" 
                         data-easing="easeOutExpo">
-                        <img src="../../assets/frontend/pages/img/revolutionslider/man-winner.png" alt="Image 1">
+                        <img src="../../assets/frontend/pages/img/divisions/Blue-Crystal-2.jpg" alt="Image 1">
                     </div>
                 </li>
 
@@ -154,11 +154,11 @@
                     <img src="../../assets/frontend/pages/img/revolutionslider/bg3.jpg" alt="">
                     <div class="caption lfl slide_item_left" 
                         data-x="30" 
-                        data-y="95" 
+                        data-y="100"
                         data-speed="400" 
                         data-start="1500" 
                         data-easing="easeOutBack">
-                        <iframe src="http://player.vimeo.com/video/56974716?portrait=0" width="420" height="240" style="border:0" allowFullScreen></iframe> 
+                        <img src="../../assets/frontend/pages/img/divisions/Blue-Crystal-3.jpg" alt="Image 1">
                     </div>
                     <div class="caption lfr slide_title"
                         data-x="470"

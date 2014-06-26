@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row quote-v1 margin-bottom-30">
             <div class="col-md-9">
-                <span style="text-align:center">WELCOME TO BLUE CRYSTAL INFRA AND DEVELOPER LIMITED  </span>
+                <span style="text-align:center">WELCOME TO BLUE CRYSTAL MARKETING PRIVATE LIMITED  </span>
             </div>
         </div>
         <!-- BEGIN SERVICE BOX -->   

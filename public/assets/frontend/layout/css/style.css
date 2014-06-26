@@ -457,8 +457,8 @@ body.page-header-fixed {
   font-weight: 400;
 
   margin-right: 67px;
-  padding-top: 22px;
-  padding-bottom: 22px;
+  padding-top: 5px;
+  /* padding-bottom: 22px; */
 }
 
 .header .mobi-toggler {
@@ -1426,8 +1426,12 @@ div.content-form-page .checkbox-list {
 Pre-Footer and pre-footer elements
 ***/
 .pre-footer {
-	background: #313030;
-	color: #b0b0b0;
+	/* background: #313030; */
+	/* color: #b0b0b0; */
+    background-image:url('/assets/footer.jpg');
+    background-repeat:none;
+    background-size:cover;
+    height:414px;
 }
 .pre-footer .container {
 	padding-top: 45px;
@@ -1438,7 +1442,7 @@ Pre-Footer and pre-footer elements
 .pre-footer h2,
 .ecommerce .pre-footer h2 {
 	font-size: 21px;
-	color: #c2c1c1;
+	/* color: #c2c1c1; */
 }
 .pre-footer p {
 	margin-bottom: 20px;
