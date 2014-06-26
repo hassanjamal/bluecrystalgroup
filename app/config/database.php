@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'forge',
-			'username'  => 'forge',
-			'password'  => '',
+			'host'      => getenv('DB_HOST') ? getenv('DB_HOST') : 'localhost',
+			'database'  => getenv('DB_DATABASE') ? getenv('DB_DATABASE') : 'bluecrystalgroup',
+			'username'  => getenv('DB_USER') ? getenv('DB_USER') : 'homestead',
+			'password'  => getenv('DB_PASSWORD') ? getenv('DB_PASSWORD') : 'secret',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
